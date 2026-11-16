@@ -1,16 +1,8 @@
-<!-- Animated Header Wave -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Himanshu%20Yadav&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20%26%20WordPress%20Developer%20%7C%20Performance%20Marketer&descAlignY=58&descSize=16" width="100%" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=2500&pause=1000&color=0F172A&center=true&vCenter=true&width=700&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Himanshu+Yadav" alt="Name Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=0284C7&center=true&vCenter=true&width=700&height=45&lines=Web+%26+WordPress+Developer+%F0%9F%92%BB;SEO+%26+Performance+Marketer+%F0%9F%93%88;Google+%26+Meta+Ads+Specialist+%F0%9F%9A%80" alt="Role Typing SVG" />
+</div>
 
-<!-- Typing Animation -->
-<p align="center">
-  <a href="https://github.com/yadavhimanshu11358-ui">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Fast+%26+SEO-Friendly+Websites+%F0%9F%92%BB;Scaling+Brands+with+Google+%26+Meta+Ads+%F0%9F%93%88;WordPress+Customization+%26+Speed+Optimization+%E2%9A%A1" alt="Typing SVG" />
-  </a>
-</p>
-
-<!-- Live Profile Views & Availability Badges -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yadavhimanshu11358-ui&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Open%20for-Freelance%20%26%20Projects-success?style=for-the-badge&logo=rocket&logoColor=white" alt="Freelance" />
@@ -82,4 +74,27 @@ Hi! I'm **Himanshu Yadav**, a **Web & WordPress Developer** combined with a **Pe
 
 ---
 
-### 📊 GitHub Analytics & Activity
+### 📊 GitHub Activity & Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=yadavhimanshu11358-ui&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yadavhimanshu11358-ui&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+</p>
+
+---
+
+### 🤝 Connect With Me
+<p align="center">
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
